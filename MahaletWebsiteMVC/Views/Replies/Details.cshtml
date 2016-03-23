@@ -1,0 +1,50 @@
+﻿@model JeffriesDataLibrary.Reply
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Reply</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CommentId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CommentId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Text)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Text)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateReplied)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateReplied)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ReplyId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

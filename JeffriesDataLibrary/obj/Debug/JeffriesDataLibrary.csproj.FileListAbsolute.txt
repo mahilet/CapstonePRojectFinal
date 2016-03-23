@@ -1,0 +1,9 @@
+C:\_Prototypes\CapStone Project\JeffriesDataLibrary\bin\Debug\JeffriesDataLibrary.dll
+C:\_Prototypes\CapStone Project\JeffriesDataLibrary\bin\Debug\JeffriesDataLibrary.pdb
+C:\_Prototypes\CapStone Project\JeffriesDataLibrary\obj\Debug\JeffriesDataLibrary.dll
+C:\_Prototypes\CapStone Project\JeffriesDataLibrary\obj\Debug\JeffriesDataLibrary.pdb
+C:\Users\MahiletHailemariam\Documents\_dev\CapStone Project\JeffriesDataLibrary\bin\Debug\JeffriesDataLibrary.dll
+C:\Users\MahiletHailemariam\Documents\_dev\CapStone Project\JeffriesDataLibrary\bin\Debug\JeffriesDataLibrary.pdb
+C:\Users\MahiletHailemariam\Documents\_dev\CapStone Project\JeffriesDataLibrary\obj\Debug\JeffriesDataLibrary.dll
+C:\Users\MahiletHailemariam\Documents\_dev\CapStone Project\JeffriesDataLibrary\obj\Debug\JeffriesDataLibrary.pdb
+C:\Users\MahiletHailemariam\Documents\_dev\CapStone Project\JeffriesDataLibrary\obj\Debug\JeffriesDataLibrary.csprojResolveAssemblyReference.cache
